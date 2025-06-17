@@ -1,6 +1,8 @@
 # Website Presenter
 A smoother way to show off your websites!
 
+https://github.com/user-attachments/assets/3f1e0f45-8866-4eb3-9cbe-2f3b02d9c43d
+
 ## Usage
 Paste this at the end of the HTML `body` element.
 
@@ -10,5 +12,3 @@ Paste this at the end of the HTML `body` element.
 
 > [!NOTE]
 > If you're recording as a video, be sure to disable the actual cursor.
-
-https://github.com/user-attachments/assets/3f1e0f45-8866-4eb3-9cbe-2f3b02d9c43d
